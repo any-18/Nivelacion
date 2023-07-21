@@ -78,6 +78,7 @@ function mayorQueCincuenta(num) {
 function obtenerResto(x, y) {
   // Obten el resto de la división de "x" entre "y"
   // Tu código:
+
 }
 
 function esPar(num) {
@@ -128,6 +129,15 @@ function esPositivo(numero) {
   //Si el número es positivo, devolver ---> "Es positivo"
   //Si el número es negativo, devolver ---> "Es negativo"
   //Si el número es 0, devuelve false
+  if(numero === 0) {
+    return false;
+  }
+  if(numero > 0) {
+    return "Es positivo";
+  }
+  else {
+    return "Es negativo";
+  }
 }
 
 function agregarSimboloExclamacion(str) {
@@ -177,6 +187,13 @@ function esVocal(letra){
   //Verificar si el usuario ingresó un string de más de un carácter y, en ese caso, informarle 
   //que no se puede procesar el dato mediante el mensaje "Dato incorrecto".
   //Escribe tu código aquí:
+  if(letra.length > 1) {
+    return 'Dato incorrecto'
+  } 
+  if(letra === 'a' || letra === 'e' || letra === 'i' || letra === 'o' || letra === 'u') {
+    return 'Es vocal'
+  }
+  return 'Dato incorrecto'
 }
 
 

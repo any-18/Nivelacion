@@ -1,17 +1,4 @@
-<img  src='../logo.png' height='70px'>
-<table width="100%" style='table-layout:fixed;'>
-  <tr>
-    <td>
-      <a href="https://airtable.com/shrSzEYT4idEFGB8d?prefill_clase=02-JS-I">
-        <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
-        <br>
-        Hacé click acá para dejar tu feedback sobre esta clase.
-      </a>
-    </td>
-  </tr>
-</table>
-
-# Lección 2: Introducción a Javascript
+# Lección 1: Introducción a Javascript
 
 En esta lección cubriremos:
 
@@ -23,7 +10,6 @@ En esta lección cubriremos:
 * Control de flujo y operadores de comparación
 * Introducción a Node y NPM
 
-<iframe src="https://player.vimeo.com/video/423852829" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ## Introducción a Javascript
 
@@ -329,8 +315,6 @@ El símbolo "mayor que" (`>`) que ve en el último ejemplo se llama _Operador de
 
 _Node.js_ es un entorno de tiempo de ejecución desarrollado originalmente para su uso en servidores/back-end. Tendremos que instalarlo en nuestras máquinas para completar los próximos ejercicios. Para instalar Node, haga clic aquí: [Descargar e instalar Node.js](https://nodejs.org/en/download/). Node viene con "NPM" incluido. NPM es un administrador de paquetes ("package manager") para paquetes Javascript y lo usaremos a lo largo de nuestro aprendizaje en Henry. Una vez que hayas instalado Node.js, no necesitas hacer nada más para instalar NPM.
 
-## Abre la carpeta "homework" y completa la tarea descrita en el archivo README
-[Homework](https://github.com/atralice/Curso.Prep.Henry/tree/master/02-JS-I/homework)
 
 ## Recursos adicionales
 
