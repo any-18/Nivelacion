@@ -1,7 +1,3 @@
-<p align='left'>
-    <img  src='../logo.png' height='70px'>
-</p>
-<table width="100%" style='table-layout:fixed;'>
 Lección 4: Javascript II (continuación de bucles `for` y Arrays)
 
 En esta lección cubriremos:
